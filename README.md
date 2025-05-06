@@ -40,7 +40,7 @@ A clean, responsive Blog Preview Card page built with semantic HTML5 and modular
 
 ## 🔗 Live Site
 
-👉 [View Live]([https://tourniquettears.github.io/Frontend-Mentor-Recipe-page/](https://tourniquettears.github.io/Frontend-Mentor-Blog-preview-Card/))
+👉 [View Live](https://tourniquettears.github.io/Frontend-Mentor-Recipe-page/](https://tourniquettears.github.io/Frontend-Mentor-Blog-preview-Card)
 
 ---
 
