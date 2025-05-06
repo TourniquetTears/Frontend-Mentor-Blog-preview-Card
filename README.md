@@ -55,8 +55,8 @@ GitHub: [@TourniquetTears](https://github.com/TourniquetTears)
 To run this project locally:
 
 ```bash
-git clone https://github.com/TourniquetTears/Frontend-Mentor-Recipe-page.git
+git clone https://github.com/TourniquetTears/Frontend-Mentor-Blog-preview-Card.git
 
-cd Frontend-Mentor-Recipe-page
+cd Frontend-Mentor-Blog-preview-Card
 
 open index.html
